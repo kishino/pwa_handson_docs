@@ -1,10 +1,10 @@
-**本資料のURL**　https://github.com/hifivemania/pwa_handson_docs
+**本資料のURL**　https://github.com/kishino/pwa_handson_docs
 
 ## プロジェクトベースのダウンロード
 
 ハンズオン用のプロジェクトベースは以下のURLでダウンロードできます。ダウンロードしたら解凍してください。
 
-https://github.com/hifivemania/pwa_handson
+https://github.com/kishino/pwa_handson
 
 解凍後、そのフォルダの中に以下のコマンドを実行します。Node.jsを事前にインストールしてください（※バージョンは8以上を使ってください）。
 
