@@ -14,6 +14,14 @@ npm i
 
 これで必要なライブラリがインストールされます。
 
+### Basic認証のUSERNAME/PASSWORDを設定する
+データの保存にBaaS@rakuzaを使用しています。BaaS@rakuzaのAPIにアクセスするにはBasic認証が必要です。  
+todo.jsの以下にUSERNAME/PASSWORDを設定して下さい。
+
+```
+var CREDENTIAL = 'USERNAME:PASSWORD'
+```
+
 ### Webサーバを立ち上げる
 
 ライブラリをインストールすると以下のコマンドでWebサーバが立ち上がります。
